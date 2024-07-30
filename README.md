@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hello, I'm Prathmesh Chavan!</h1>
 
-[Visit my Portfolio Website](https://portfolio-pc.vercel.app/)
+[Visit my Portfolio Website](https://prathmesh-chavan-portfolio.vercel.app/)
 
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathmchavan&theme=aura)
